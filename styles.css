@@ -36,4 +36,5 @@ body {
 
 .label {
 	border: 2px solid grey;
+	font-weight: bold;
 }
