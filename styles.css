@@ -6,30 +6,37 @@ ul {
   list-style-type: none;
 }
 
-img {
-	width:300px;
-}
-
 .title{
 	text-align: center;
-	font-family: 'Coiny', cursive;
+	font-family: "Coiny", cursive;
 	font-size:30px;
 }
 
-.border_1 {
+.animal-card{
 	border: 1px solid black;
 	margin:5px;
-}
-
-.border_2 {
-	border: 2px solid grey;
-	margin:5px;
-}
-
-.padding {
 	padding:20px;
 }
 
-.italic {
+.animal-image{
+	width:300px;
+	margin:5px;
+}
+
+.animal-info{
+	border: 2px solid grey;
+	margin:5px;
+	padding: 20px
+}
+
+.interesting-fact{
 	font-style: italic;
+}
+
+.facts-list{
+	border: 2px solid grey;
+}
+
+.label {
+	border: 2px solid grey;
 }
